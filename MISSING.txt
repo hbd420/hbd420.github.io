@@ -1,0 +1,19 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/justice.ttf
+fonts/retro_computer_personal_use.ttf
+images/Screenshot-2019-06-24-at-12.27.47-p-130x130q80.png
+images/Screenshot-2019-06-24-at-12.27.47-p-500.png
+images/Screenshot-2019-06-24-at-12.27.47-p-800.png
+images/Screenshot-2019-06-24-at-12.27.47.png
+images/noun_Love_1579095_ff8158.svg
+images/noun_Video_421641_ff0000.svg
+images/noun_link_1713451_ffffff.svg
+images/wfs2-s8-img1-p-130x130q80.jpeg
+images/wfs2-s8-img1.jpg
+images/wfs2-s8-img2-p-130x130q80.jpeg
+images/wfs2-s8-img2-p-800.jpeg
+images/wfs2-s8-img2.jpg
+images/wfs2-s8-img3-p-130x130q80.jpeg
+images/wfs2-s8-img3-p-800.jpeg
+images/wfs2-s8-img3.jpg
